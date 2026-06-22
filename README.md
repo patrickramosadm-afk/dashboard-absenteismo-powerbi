@@ -28,8 +28,11 @@ Excel (base de dados simulada)
 Este projeto reforçou conceitos de:
 
 Modelagem de dados
+
 Criação de medidas DAX
+
 Análise de indicadores de saúde
+
 Storytelling com dados
 
 📌 Observação
